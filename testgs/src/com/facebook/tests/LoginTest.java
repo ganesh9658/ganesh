@@ -24,5 +24,6 @@ public class LoginTest
 	{
 		System.out.println("Browser is Closed");
 		MasterPage.driver.close();
+		System.out.println("Driver is closed");
 	}
 }
